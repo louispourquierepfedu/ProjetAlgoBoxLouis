@@ -5,5 +5,5 @@ debut
    a <- 5
    b <- 3
    afficher ("la somme vaut : ", a+b)
-   afficher ("oscar est le plus beau")
+   afficher ("le produit vaut :, a*b")
 fin
